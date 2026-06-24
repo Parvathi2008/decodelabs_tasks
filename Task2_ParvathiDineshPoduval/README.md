@@ -158,6 +158,6 @@ Through this project, I learned how to:
 
 **Parvathi Dinesh Poduval**
 
-AI Internship Project – Task 3
+AI Internship Project – Task 2
 
 DecodeLabs AI Internship
